@@ -1,0 +1,5 @@
+Credentials cache: API:5558
+        Principal: jsolano-@42MADRID.COM
+
+  Issued                Expires             Flags    Principal
+Apr  5 16:24:42 2021  Apr  6 02:24:37 2021  FPIA   krbtgt/42MADRID.COM@42MADRID.COM
